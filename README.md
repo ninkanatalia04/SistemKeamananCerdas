@@ -3,22 +3,19 @@ Kelompok 5
 
 **INSIDER THREAT USING TRANSFORMERS ON USER ACTIVITY LOGS**
 
-**Topik Riset:**
-"Deteksi Ancaman Internal Menggunakan Transformer untuk Menganalisis Log Aktivitas Pengguna"
-
-**Deskripsi:**
-Transformer digunakan untuk menganalisis aktivitas pengguna secara menyeluruh. Model ini dilatih untuk mendeteksi pola akses yang tidak biasa oleh pengguna internal, seperti akses data di luar jam kerja atau aktivitas mencurigakan lainnya, dengan mempelajari urutan akses file dan sistem.
-
 **3 model transformer yang digunakan:**
 1. Encoder
 2. TAB
 3. RoBERTa
 
-**Novelty:**
-Sedang hingga tinggi. Insider threat sudah menjadi fokus penelitian dengan berbagai metode deteksi perilaku anomali. Namun, Transformer, dengan kemampuannya untuk menangkap perubahan perilaku yang halus dalam urutan log, menawarkan pendekatan baru yang dapat meningkatkan performa deteksi.
+Neha Novera-1301213320
+Link youtube progress Model RoBERTa : 
 
-**Dataset: CERT Insider threat**
-Dataset ini berisi data aktivitas pengguna yang mencurigakan dan bisa digunakan untuk mendeteksi Insider Threat. Model Transformer bisa mengenali pola akses yang anomali berdasarkan log pengguna.
+Maria Rosari-1301210065
+Link youtube progress Model TAB : 
 
-URL: https://www.kaggle.com/datasets/nitishabharathi/cert-insider-threat
+Ninka Natalia-1301210471
+Link youtube progress Model Encoder : https://youtu.be/WI-DaqLHSnc
+
+
 
