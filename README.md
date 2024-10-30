@@ -9,12 +9,15 @@ Kelompok 5
 3. RoBERTa
 
 Neha Novera-1301213320
+
 Link youtube progress Model RoBERTa : 
 
 Maria Rosari-1301210065
+
 Link youtube progress Model TAB : 
 
 Ninka Natalia-1301210471
+
 Link youtube progress Model Encoder : https://youtu.be/WI-DaqLHSnc
 
 
