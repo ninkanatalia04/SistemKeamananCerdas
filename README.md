@@ -10,7 +10,9 @@ Kelompok 5
 
  
 Link youtube progress Model RoBERTa : 
+
 Link youtube progress Model TAB : 
+
 Link youtube progress Model Encoder : https://youtu.be/WI-DaqLHSnc
 
 
