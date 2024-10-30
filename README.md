@@ -9,7 +9,7 @@ Kelompok 5
 3. RoBERTa (Neha Novera-1301213320)
 
  
-Link youtube progress Model RoBERTa : 
+Link youtube progress Model RoBERTa : https://youtu.be/uq9it0wORMI
 
 Link youtube progress Model TAB : https://youtu.be/FcvpI-KF74s
 
